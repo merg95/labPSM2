@@ -1,6 +1,6 @@
 #include <stdio.h>
 //comentario agregado
-//cambio agregado
+//cambioagregado
 void main(void) {
 	print("Hola, mundo xD");
 	print("Segundo cambio");
